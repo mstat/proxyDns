@@ -1,0 +1,2 @@
+@proxyDns.exe
+@pause
